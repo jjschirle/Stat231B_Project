@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Ignore all .h5ad and .h5 files
+*.h5ad
+*.h5
+*.rds
+
+# Allow only pure_11.h5ad
+!data/pure_11.h5ad
