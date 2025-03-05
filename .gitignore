@@ -181,5 +181,6 @@ cython_debug/
 *.h5
 *.rds
 
-# Allow only Gu_2024.h5ad
+# Allow only Gu_2024.h5ad and Denoised_normalized_log_Gu_2024.h5ad
 !data/Gu_2024.h5ad
+# !data/Denoised_normalized_log_Gu_2024.h5ad
