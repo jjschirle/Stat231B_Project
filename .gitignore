@@ -181,5 +181,5 @@ cython_debug/
 *.h5
 *.rds
 
-# Allow only pure_11.h5ad
-!data/pure_11.h5ad
+# Allow only Gu_2024.h5ad
+!data/Gu_2024.h5ad
